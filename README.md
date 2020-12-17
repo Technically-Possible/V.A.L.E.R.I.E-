@@ -14,7 +14,7 @@ Very Alone Ladies Engineer Real Interesting Experiments
 <br />
 <p align="center">
   <a href="https://github.com/Technically-Possible/V.A.L.E.R.I.E-">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://i.imgur.com/GlRhxMx.png" alt="Logo" width="240" height="200">
   </a>
 
   <h3 align="center">Very Alone Ladies Engineer Real Interesting Experiments</h3>
