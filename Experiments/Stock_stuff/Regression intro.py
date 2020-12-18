@@ -41,3 +41,4 @@ clf.fit(x_train, y_train)
 accuracy = clf.score(x_test, y_test)
 
 print(accuracy)
+print(df.head)
